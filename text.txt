@@ -1,0 +1,10 @@
+ Volume in drive E is pradeep
+ Volume Serial Number is 7CDB-07E2
+
+ Directory of E:\education\DevOps\GIT\Git_Repositry
+
+09/24/2019  08:23 PM    <DIR>          .
+09/24/2019  08:23 PM    <DIR>          ..
+09/24/2019  08:23 PM                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  244,205,289,472 bytes free
