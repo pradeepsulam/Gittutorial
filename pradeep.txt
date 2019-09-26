@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Version 4
+=======
+skffyfbivsfgrlgfnrhgheg
+>>>>>>> parent of 5379521... V 3
